@@ -1,0 +1,146 @@
+2018-07-21 00:00:39.236  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 00:02:08.485 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 00:02:08.485 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 00:02:08.485 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 00:02:08.493 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 00:05:39.265  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 03:10:13.222  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h24s34ms272탎277ns).
+2018-07-21 08:20:05.903  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 08:20:19.913  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h10m21s479ms501탎880ns).
+2018-07-21 08:25:05.907  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 08:30:05.926  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 08:35:05.930  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 08:39:37.746 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 08:39:37.746 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 08:39:37.746 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 08:39:37.754 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 08:40:05.938  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 08:41:57.250 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 08:41:57.251 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 08:41:57.251 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 08:41:57.256 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 08:45:05.946  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 08:50:05.951  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 08:55:05.960  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 09:00:05.970  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 09:05:05.980  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 09:10:05.990  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 09:15:06.007  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 09:20:06.012  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 09:25:06.025  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 09:30:06.030  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 09:35:06.038  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 09:40:06.047  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 14:31:47.083  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h48m12s754ms124탎506ns).
+2018-07-21 14:32:32.906  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 14:37:32.912  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 14:42:32.920  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 14:44:40.804 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 14:44:40.805 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 14:44:40.805 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 14:44:40.815 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 14:47:32.927  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 14:52:32.930  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 14:57:32.955  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 15:02:32.974  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 15:32:40.054  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m22s837ms318탎827ns).
+2018-07-21 15:35:25.679  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 15:37:13.200 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 15:37:13.200 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 15:37:13.200 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 15:37:13.207 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 15:37:40.235 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 15:37:40.235 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795Xm
+2018-07-21 15:37:40.235 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 15:37:40.243 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 15:40:25.685  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 15:45:25.695  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 15:50:25.698  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 15:55:25.715  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 16:00:25.719  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 21:36:47.610  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h33m53s382ms314탎784ns).
+2018-07-21 21:38:32.957  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 21:43:32.962  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 21:48:32.971  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 21:53:32.980  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 21:57:43.374 DEBUG CFLRAJASEKAR --- [nio-8089-exec-2] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 21:57:43.374 DEBUG CFLRAJASEKAR --- [nio-8089-exec-2] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795Xm
+2018-07-21 21:57:43.374 DEBUG CFLRAJASEKAR --- [nio-8089-exec-2] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 21:57:43.381 DEBUG CFLRAJASEKAR --- [nio-8089-exec-2] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 21:58:32.997  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:03:33.005  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:04:01.728 DEBUG CFLRAJASEKAR --- [nio-8089-exec-4] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 22:04:01.728 DEBUG CFLRAJASEKAR --- [nio-8089-exec-4] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795Xm
+2018-07-21 22:04:01.728 DEBUG CFLRAJASEKAR --- [nio-8089-exec-4] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 22:04:01.738 DEBUG CFLRAJASEKAR --- [nio-8089-exec-4] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 22:07:40.597 DEBUG CFLRAJASEKAR --- [nio-8089-exec-7] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 22:07:40.597 DEBUG CFLRAJASEKAR --- [nio-8089-exec-7] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 22:07:40.597 DEBUG CFLRAJASEKAR --- [nio-8089-exec-7] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 22:07:40.604 DEBUG CFLRAJASEKAR --- [nio-8089-exec-7] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 22:08:33.010  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:13:33.013  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:18:17.192 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 22:18:17.192 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 22:18:17.192 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 22:18:17.200 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 22:18:33.019  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:23:33.026  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:28:33.034  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:29:46.327 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 22:29:46.327 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 22:29:46.327 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 22:29:46.331 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 22:33:33.041  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:38:33.049  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:42:05.131 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 22:42:05.131 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 22:42:05.131 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 22:42:05.147 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 22:43:33.056  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:44:52.316 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 22:44:52.316 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 22:44:52.316 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 22:44:52.323 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 22:48:33.066  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:53:33.074  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 22:58:33.092  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:03:33.113  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:08:31.300 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 23:08:31.301 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 23:08:31.301 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 23:08:31.308 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 23:08:33.124  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:11:11.410 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 23:11:11.411 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 23:11:11.411 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 23:11:11.416 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 23:13:33.129  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:15:36.796 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 23:15:36.797 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 23:15:36.798 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 23:15:36.824 DEBUG CFLRAJASEKAR --- [io-8089-exec-10] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 23:18:33.141  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:18:55.359 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 23:18:55.360 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795X
+2018-07-21 23:18:55.360 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 23:18:55.365 DEBUG CFLRAJASEKAR --- [nio-8089-exec-1] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 23:23:33.164  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:24:16.450 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 23:24:16.450 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795Xm
+2018-07-21 23:24:16.450 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 23:24:16.457 DEBUG CFLRAJASEKAR --- [nio-8089-exec-5] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 23:28:33.168  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:33:33.176  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:37:48.037 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 23:37:48.037 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795Xm
+2018-07-21 23:37:48.037 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 23:37:48.047 DEBUG CFLRAJASEKAR --- [nio-8089-exec-6] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 23:38:33.182  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:43:33.186  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:44:58.142 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.c.FraudCheckController             : Inside Fraud Check Controller
+2018-07-21 23:44:58.142 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.d.FraudCheckDAO                    : SSNID : HY779795Xm
+2018-07-21 23:44:58.142 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.d.FraudCheckDAO                    : Inide Fraud Check DAO Service
+2018-07-21 23:44:58.148 DEBUG CFLRAJASEKAR --- [nio-8089-exec-3] c.m.f.c.FraudCheckController             : Fraud Check Status false
+2018-07-21 23:48:33.196  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:53:33.205  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-07-21 23:58:33.213  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration

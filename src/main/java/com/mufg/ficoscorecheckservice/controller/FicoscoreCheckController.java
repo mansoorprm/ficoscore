@@ -1,0 +1,50 @@
+package com.mufg.ficoscorecheckservice.controller;
+
+import java.text.ParseException;
+import java.util.Date;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.mufg.ficoscorecheckservice.dao.FicoscoreCheckDAO;
+import com.mufg.ficoscorecheckservice.model.FicoscoreCheckModel;
+
+@RestController
+@EnableAutoConfiguration
+@ComponentScan
+@SpringBootApplication
+@EnableEurekaClient
+@RequestMapping("/mufg/api")
+public class FicoscoreCheckController {
+
+	private static final Logger logger = LogManager.getLogger(FicoscoreCheckController.class);
+
+	@Autowired
+	private FicoscoreCheckDAO ficoscoreCheckDAO;
+
+	@RequestMapping(value = "/ficoscorecheck/ssn/{ssnId}", method = RequestMethod.GET, headers = "Accept=application/json", produces = "application/json")
+	@ResponseBody
+	public ResponseEntity<FicoscoreCheckModel> ficoscoreCheck(@PathVariable String ssnId) throws ParseException {
+
+		logger.debug("Inside FicoScore Check Controller");
+
+		FicoscoreCheckModel ficoscoreCheckModel = new FicoscoreCheckModel();
+
+		ficoscoreCheckModel = ficoscoreCheckDAO.fraudCheck(ssnId);
+		if (!(ficoscoreCheckModel.isStatus())) {
+			logger.debug("Fraud Check Status " + ficoscoreCheckModel.isStatus());
+			return ResponseEntity.ok(ficoscoreCheckModel);
+		}
+		return ResponseEntity.ok(ficoscoreCheckModel);
+	}
+}

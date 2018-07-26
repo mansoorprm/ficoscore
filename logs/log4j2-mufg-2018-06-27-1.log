@@ -1,0 +1,90 @@
+2018-06-27 00:20:56.443  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m32s315ms441탎622ns).
+2018-06-27 00:21:29.095  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:21:57.449  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m1s9ms429탎349ns).
+2018-06-27 00:23:29.547  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:26:29.108  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:28:29.561  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:31:29.120  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:33:29.570  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:36:29.124  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:38:29.578  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:41:29.133  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:43:29.588  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:46:29.145  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:48:29.601  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:51:29.155  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:53:29.606  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:56:29.159  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 00:58:29.608  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 01:01:29.167  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 01:03:29.611  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 01:06:29.178  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 01:08:29.617  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 01:11:29.182  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 01:13:29.631  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 01:16:29.189  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 01:18:29.640  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 01:21:29.194  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 01:23:29.645  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 01:26:29.210  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 04:26:38.872  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h26s920ms649탎304ns).
+2018-06-27 04:26:54.375  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h26s890ms356탎297ns).
+2018-06-27 09:43:19.877  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h16m44s527ms785탎298ns).
+2018-06-27 09:43:34.547  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5h16m44s276ms795탎751ns).
+2018-06-27 09:44:21.602  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 09:47:21.182  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 09:49:21.608  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 09:52:21.192  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 09:54:21.614  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 09:57:21.202  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 09:59:21.621  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 10:02:21.213  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 10:04:21.624  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 10:07:21.219  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 10:09:21.632  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 10:12:21.232  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 10:14:21.640  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 10:17:21.235  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 10:19:21.645  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 10:22:21.243  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 10:24:21.649  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 12:43:17.923  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h18m57s902ms469탎498ns).
+2018-06-27 12:43:32.341  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h18m57s786ms4탎403ns).
+2018-06-27 12:45:48.534  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 12:47:48.952  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 12:50:48.542  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 12:52:48.963  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 12:55:48.547  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 12:57:48.973  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 13:26:28.538  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 13:26:29.272  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m10s170ms542탎732ns).
+2018-06-27 13:26:42.963  WARN CFLRAJASEKAR --- [l-1 housekeeper] c.z.h.p.HikariPool                       : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m10s59ms674탎532ns).
+2018-06-27 13:28:28.928  INFO CFLRAJASEKAR --- [trap-executor-0] c.n.d.s.r.a.ConfigClusterResolver        : Resolving eureka endpoints via configuration
+2018-06-27 13:28:36.696  INFO CFLRAJASEKAR --- [      Thread-10] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4351fa50: startup date [Tue Jun 26 21:41:03 IST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@59a24e50
+2018-06-27 13:28:36.715  INFO CFLRAJASEKAR --- [      Thread-10] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application fund-transfer-service with eureka with status DOWN
+2018-06-27 13:28:36.716  WARN CFLRAJASEKAR --- [      Thread-10] c.n.d.DiscoveryClient                    : Saw local status change event StatusChangeEvent [timestamp=1530086316715, current=DOWN, previous=UP]
+2018-06-27 13:28:36.719  INFO CFLRAJASEKAR --- [nfoReplicator-0] c.n.d.DiscoveryClient                    : DiscoveryClient_FUND-TRANSFER-SERVICE/CFLRAJASEKAR.Virtusa.com:fund-transfer-service:8087: registering service...
+2018-06-27 13:28:36.742  INFO CFLRAJASEKAR --- [nfoReplicator-0] c.n.d.DiscoveryClient                    : DiscoveryClient_FUND-TRANSFER-SERVICE/CFLRAJASEKAR.Virtusa.com:fund-transfer-service:8087 - registration status: 204
+2018-06-27 13:28:36.768  INFO CFLRAJASEKAR --- [      Thread-10] o.s.c.s.DefaultLifecycleProcessor        : Stopping beans in phase 0
+2018-06-27 13:28:36.776  INFO CFLRAJASEKAR --- [      Thread-10] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-06-27 13:28:36.778  INFO CFLRAJASEKAR --- [      Thread-10] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2018-06-27 13:28:36.802  INFO CFLRAJASEKAR --- [      Thread-10] c.n.d.DiscoveryClient                    : Shutting down DiscoveryClient ...
+2018-06-27 13:28:39.804  INFO CFLRAJASEKAR --- [      Thread-10] c.n.d.DiscoveryClient                    : Unregistering ...
+2018-06-27 13:28:39.820  INFO CFLRAJASEKAR --- [      Thread-10] c.n.d.DiscoveryClient                    : DiscoveryClient_FUND-TRANSFER-SERVICE/CFLRAJASEKAR.Virtusa.com:fund-transfer-service:8087 - deregister  status: 200
+2018-06-27 13:28:39.852  INFO CFLRAJASEKAR --- [      Thread-10] c.n.d.DiscoveryClient                    : Completed shut down of DiscoveryClient
+2018-06-27 13:28:39.859  INFO CFLRAJASEKAR --- [      Thread-10] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown initiated...
+2018-06-27 13:28:39.886  INFO CFLRAJASEKAR --- [      Thread-10] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown completed.
+2018-06-27 13:30:18.927  INFO CFLRAJASEKAR --- [      Thread-10] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@44c0b3db: startup date [Tue Jun 26 19:49:09 IST 2018]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@5bbc82cb
+2018-06-27 13:30:18.957  INFO CFLRAJASEKAR --- [      Thread-10] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application account-open-service with eureka with status DOWN
+2018-06-27 13:30:18.959  WARN CFLRAJASEKAR --- [      Thread-10] c.n.d.DiscoveryClient                    : Saw local status change event StatusChangeEvent [timestamp=1530086418958, current=DOWN, previous=UP]
+2018-06-27 13:30:18.963  INFO CFLRAJASEKAR --- [nfoReplicator-0] c.n.d.DiscoveryClient                    : DiscoveryClient_ACCOUNT-OPEN-SERVICE/CFLRAJASEKAR.Virtusa.com:account-open-service:8086: registering service...
+2018-06-27 13:30:18.988  INFO CFLRAJASEKAR --- [nfoReplicator-0] c.n.d.DiscoveryClient                    : DiscoveryClient_ACCOUNT-OPEN-SERVICE/CFLRAJASEKAR.Virtusa.com:account-open-service:8086 - registration status: 204
+2018-06-27 13:30:19.009  INFO CFLRAJASEKAR --- [      Thread-10] o.s.c.s.DefaultLifecycleProcessor        : Stopping beans in phase 0
+2018-06-27 13:30:19.016  INFO CFLRAJASEKAR --- [      Thread-10] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-06-27 13:30:19.018  INFO CFLRAJASEKAR --- [      Thread-10] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2018-06-27 13:30:19.038  INFO CFLRAJASEKAR --- [      Thread-10] c.n.d.DiscoveryClient                    : Shutting down DiscoveryClient ...
+2018-06-27 13:30:22.041  INFO CFLRAJASEKAR --- [      Thread-10] c.n.d.DiscoveryClient                    : Unregistering ...
+2018-06-27 13:30:22.061  INFO CFLRAJASEKAR --- [      Thread-10] c.n.d.DiscoveryClient                    : DiscoveryClient_ACCOUNT-OPEN-SERVICE/CFLRAJASEKAR.Virtusa.com:account-open-service:8086 - deregister  status: 200
+2018-06-27 13:30:22.088  INFO CFLRAJASEKAR --- [      Thread-10] c.n.d.DiscoveryClient                    : Completed shut down of DiscoveryClient
+2018-06-27 13:30:22.095  INFO CFLRAJASEKAR --- [      Thread-10] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown initiated...
+2018-06-27 13:30:22.114  INFO CFLRAJASEKAR --- [      Thread-10] c.z.h.HikariDataSource                   : HikariPool-1 - Shutdown completed.
