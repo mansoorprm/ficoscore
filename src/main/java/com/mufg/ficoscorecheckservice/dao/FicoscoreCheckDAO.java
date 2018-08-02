@@ -27,22 +27,30 @@ public class FicoscoreCheckDAO {
 
 	FicoscoreCheckModel ficoscoreCheckModel;
 	
+	/**
+	 * @return
+	 */
 	public java.sql.Date getCurrentDatetime() {
 	    java.util.Date today = new java.util.Date();
 	    return new java.sql.Date(today.getTime());
 	}
 
+	/**
+	 * @param ssnId
+	 * @return
+	 * @throws ParseException
+	 */
 	public FicoscoreCheckModel fraudCheck(String ssnId) throws ParseException {
 
-		boolean ficoScore = false;
+		
 		logger.debug("SSNID : " + ssnId);
 
-		String query = "select ssn,score,validfrom,validto from mufg.ficoscore" + " where ssn = ?  and validfrom < ? and validto > ? ";
+		String query = "select ssn,score,validfrom,validto from SmartBankOBInnovationDB_1_1.FicoScore" + " where ssn = ?  and validfrom < ? and validto > ? ";
 
 		Connection con = null;
 		PreparedStatement ps = null;
 		ficoscoreCheckModel = new FicoscoreCheckModel();
-
+		ficoscoreCheckModel.setStatus(true);
 		try {
 
 			logger.debug("Inide Fico Score Check DAO Service" + getCurrentDatetime());
@@ -51,15 +59,14 @@ public class FicoscoreCheckDAO {
 			ps.setString(1, ssnId);
 			ps.setDate(2,getCurrentDatetime());
 			ps.setDate(3,getCurrentDatetime());
-
-			boolean status = true;
 			ResultSet rs = ps.executeQuery();
 			while (rs.next()) {
-				status = true;
+			
 				ficoscoreCheckModel.setSsn(rs.getString("ssn"));
 				ficoscoreCheckModel.setFscore(rs.getInt("score"));
 				ficoscoreCheckModel.setVfdate(rs.getDate("validfrom"));
 				ficoscoreCheckModel.setVtdate(rs.getDate("validto"));
+				logger.debug("ficoscoreCheckModel.getFscore : "+ficoscoreCheckModel.getFscore());
 				if (ficoscoreCheckModel.getFscore()>=700)
 					ficoscoreCheckModel.setStatus(false);
 				else 

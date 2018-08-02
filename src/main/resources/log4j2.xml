@@ -12,7 +12,7 @@
 		</Console>
 
 		<!-- Rolling File Appender -->
-		<RollingFile name="FileAppender" fileName="c:/logs/log4j2-demo.log"
+		<RollingFile name="FileAppender" fileName="c:/logs/log4j2fico-demo.log"
 			filePattern="logs/log4j2-mufg-%d{yyyy-MM-dd}-%i.log">
 			<PatternLayout>
 				<Pattern>${LOG_PATTERN}</Pattern>

@@ -19,6 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.mufg.ficoscorecheckservice.dao.FicoscoreCheckDAO;
 import com.mufg.ficoscorecheckservice.model.FicoscoreCheckModel;
 
+
 @RestController
 @EnableAutoConfiguration
 @ComponentScan
@@ -38,11 +39,10 @@ public class FicoscoreCheckController {
 
 		logger.debug("Inside FicoScore Check Controller");
 
-		FicoscoreCheckModel ficoscoreCheckModel = new FicoscoreCheckModel();
-
-		ficoscoreCheckModel = ficoscoreCheckDAO.fraudCheck(ssnId);
+		FicoscoreCheckModel ficoscoreCheckModel = ficoscoreCheckDAO.fraudCheck(ssnId);
+		logger.debug("Fico Score Check Status from DAO " + ficoscoreCheckModel.isStatus());
 		if (!(ficoscoreCheckModel.isStatus())) {
-			logger.debug("Fraud Check Status " + ficoscoreCheckModel.isStatus());
+			logger.debug("Fico Score Check Status " + ficoscoreCheckModel.isStatus());
 			return ResponseEntity.ok(ficoscoreCheckModel);
 		}
 		return ResponseEntity.ok(ficoscoreCheckModel);
