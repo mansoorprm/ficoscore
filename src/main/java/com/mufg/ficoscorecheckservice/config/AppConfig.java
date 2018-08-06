@@ -20,21 +20,12 @@ import org.springframework.web.client.RestTemplate;
 @ComponentScan("com.mufg.fraudcheckservice")
 public class AppConfig {
 	@Bean
-	public RestTemplate restTemplate(CustomClientHttpRequestInterceptor customClientHttpRequestInterceptor) {
+	public RestTemplate restTemplate(MUFGCustomClientHttpRequestInterceptor customClientHttpRequestInterceptor) {
 		ClientHttpRequestFactory factory = new BufferingClientHttpRequestFactory(new SimpleClientHttpRequestFactory());
-
-		RestTemplate restTemplate = new RestTemplate();
-
+		RestTemplate restTemplate = new RestTemplate(factory);
 		List<ClientHttpRequestInterceptor> interceptors = Collections.singletonList(customClientHttpRequestInterceptor);
 		restTemplate.setInterceptors(interceptors);
 		return restTemplate;
 	}
 }
 
-
-/*
- * public class AppConfig {
- * 
- * @Bean public RestTemplate restTemplate() { RestTemplate restTemplate = new
- * RestTemplate(); return restTemplate; } }
- */

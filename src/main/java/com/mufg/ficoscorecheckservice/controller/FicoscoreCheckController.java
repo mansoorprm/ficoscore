@@ -1,7 +1,5 @@
 package com.mufg.ficoscorecheckservice.controller;
 
-import java.text.ParseException;
-import java.util.Date;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -35,7 +33,7 @@ public class FicoscoreCheckController {
 
 	@RequestMapping(value = "/ficoscorecheck/ssn/{ssnId}", method = RequestMethod.GET, headers = "Accept=application/json", produces = "application/json")
 	@ResponseBody
-	public ResponseEntity<FicoscoreCheckModel> ficoscoreCheck(@PathVariable String ssnId) throws ParseException {
+	public ResponseEntity<FicoscoreCheckModel> ficoscoreCheck(@PathVariable String ssnId) {
 
 		logger.debug("Inside FicoScore Check Controller");
 

@@ -16,16 +16,16 @@ import org.springframework.stereotype.Component;
 
 
 @Component
-public class CustomClientHttpRequestInterceptor implements ClientHttpRequestInterceptor {
-	private static final Logger LOGGER = LoggerFactory.getLogger(CustomClientHttpRequestInterceptor.class);
+public class MUFGCustomClientHttpRequestInterceptor implements ClientHttpRequestInterceptor {
+	private static final Logger LOGGER = LoggerFactory.getLogger(MUFGCustomClientHttpRequestInterceptor.class);
 	boolean auditlog;
 
 	@Override
 	public ClientHttpResponse intercept(HttpRequest request, byte[] body, ClientHttpRequestExecution execution)
 			throws IOException {
 		LOGGER.debug("Request to: {}", request.getURI());
-		//auditlog = AccountOpenServiceApplication.storeLog(Long.toString(System.currentTimeMillis()),
-			//	request.getURI().toString(), request.getMethod().toString(), "", "", "", "", "Request");
+		// Todo auditlog = AccountOpenServiceApplication.storeLog(Long.toString(System.currentTimeMillis()),
+			//Todo 	request.getURI().toString(), request.getMethod().toString(), "", "", "", "", "Request");
 		traceRequest(request, body);
 		ClientHttpResponse response = execution.execute(request, body);
 		LOGGER.debug("Response code: {}", response.getRawStatusCode());
@@ -51,8 +51,9 @@ public class CustomClientHttpRequestInterceptor implements ClientHttpRequestInte
 			responseBodyBuilder.append(line).append(System.lineSeparator());
 			line = bufferedReader.readLine();
 		}
+		
 
-		/*auditlog = AccountOpenServiceApplication.storeLog(Long.toString(System.currentTimeMillis()), "", "", "",
+		/* TODO auditlog = AccountOpenServiceApplication.storeLog(Long.toString(System.currentTimeMillis()), "", "", "",
 				response.getStatusCode().toString(), response.getStatusText(), "", "Response");
 */
 		LOGGER.debug("============================response begin==========================================");
