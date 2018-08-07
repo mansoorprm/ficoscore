@@ -1,4 +1,4 @@
 spring:
   cloud:
     config:
-      uri: http://aa673fc6e967611e881fa12a75262e54-747612973.us-east-1.elb.amazonaws.com:8888
+      uri: http://configserverservice-deployment:8888
