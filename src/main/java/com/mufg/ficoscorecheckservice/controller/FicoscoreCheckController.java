@@ -26,7 +26,6 @@ import com.mufg.ficoscorecheckservice.model.FicoscoreCheckModel;
 @EnableEurekaClient
 @CrossOrigin
 @RequestMapping("/mufg/api")
-@CrossOrigin
 public class FicoscoreCheckController {
 
 	private static final Logger logger = LogManager.getLogger(FicoscoreCheckController.class);
