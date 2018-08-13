@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -23,6 +24,7 @@ import com.mufg.ficoscorecheckservice.model.FicoscoreCheckModel;
 @ComponentScan
 @SpringBootApplication
 @EnableEurekaClient
+@CrossOrigin
 @RequestMapping("/mufg/api")
 public class FicoscoreCheckController {
 
