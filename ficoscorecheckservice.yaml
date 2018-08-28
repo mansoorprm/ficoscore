@@ -13,4 +13,4 @@ spec:
       - name: ficoscorecheckservice
         image: mufgpoc/ficoscorecheckservice
         ports:
-        - containerPort: 8091
+        - containerPort: 80
