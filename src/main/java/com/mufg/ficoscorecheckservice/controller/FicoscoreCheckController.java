@@ -47,4 +47,9 @@ public class FicoscoreCheckController {
 		}
 		return ResponseEntity.ok(ficoscoreCheckModel);
 	}
+
+	@RequestMapping("/")
+	public String home() {
+		return "Hello Openshift World";
+	}
 }
