@@ -1,3 +1,17 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: ficoscorecheckservice-deployment
+  labels:
+    app: ficoscorecheckservice
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 8091
+    name: http
+  selector:
+    app: ficoscorecheckservice
+---
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
@@ -11,6 +25,6 @@ spec:
     spec:
       containers:
       - name: ficoscorecheckservice
-        image: mufgpoc/ficoscorecheckservice
+        image: 8081386/ficoscorecheckservice
         ports:
         - containerPort: 8091
